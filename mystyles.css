@@ -45,8 +45,18 @@ h2 { color: #000000;
 dt { color: #000000;
     font-weight: bold;
 }
-.resort { color: #000000;
-          font-size: 1.2em;
+.person {
+    display: block;
+    margin-bottom: 30px;  
+    clear: both;           
+    text-align: center;
+}
+
+.person img {
+    display: block;
+    margin: 0 auto 10px auto; 
+    max-width: 150px;         
+    height: auto;
 }
 footer { font-size: 0.70em;
     text-align: center;
@@ -74,5 +84,6 @@ main ul { list-style-position: inside; }
 .clear { clear: both; }
 
 header, nav, main, footer { display: block; }
+
 
 
