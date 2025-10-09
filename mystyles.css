@@ -85,25 +85,3 @@ main ul { list-style-position: inside; }
 .clear { clear: both; }
 
 header, nav, main, footer { display: block; }
-
-html, body {
-  height: 100%;
-  margin: 0;
-  padding: 0;
-}
-
-#wrapper {
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-}
-
-main {
-  flex: 1;
-  overflow: auto;
-}
-
-
-
-
-
