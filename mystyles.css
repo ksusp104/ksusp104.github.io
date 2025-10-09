@@ -52,8 +52,8 @@ dt { color: #000000;
 
 .person img { float: left;
     margin: 0 15px 10px 0;
-    max-width: 150px;    
-    max-height: 200px;
+    width: 150px;    
+    height: 200px;
     object-fit: cover;
 }
 footer {
@@ -85,3 +85,4 @@ main ul { list-style-position: inside; }
 .clear { clear: both; }
 
 header, nav, main, footer { display: block; }
+
