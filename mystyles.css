@@ -50,8 +50,8 @@ dt { color: #000000;
     clear: both;       
 }
 
-.person img { display: block;
-    margin: 0 auto 10px auto;
+.person img { float: left;
+    margin: 0 15px 10px 0;
     max-width: 150px;    
     max-height: 200px;
 }
@@ -84,6 +84,7 @@ main ul { list-style-position: inside; }
 .clear { clear: both; }
 
 header, nav, main, footer { display: block; }
+
 
 
 
