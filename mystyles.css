@@ -59,7 +59,6 @@ dt { color: #000000;
   background-color: white;
   padding: 15px;
   border-radius: 8px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
   width: 220px;    
 }
 
@@ -94,5 +93,6 @@ main ul { list-style-position: inside; }
 .clear { clear: both; }
 
 header, nav, main, footer { display: block; }
+
 
 
